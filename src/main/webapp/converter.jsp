@@ -18,6 +18,7 @@
     float vnd = rate * usd;
 %>
 
+
 <h1><%=rate%></h1>
 <h1><%=usd%></h1>
 <h1><%=vnd%></h1>
